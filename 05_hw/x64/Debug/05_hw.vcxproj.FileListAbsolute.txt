@@ -1,0 +1,2 @@
+C:\Users\Ivan\source\repos\05_hw\x64\Debug\05_hw.exe.lastcodeanalysissucceeded
+C:\Users\Ivan\source\repos\05_hw\05_hw\x64\Debug\NativeCodeAnalysis.read.1.tlog
